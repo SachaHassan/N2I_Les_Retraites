@@ -1,16 +1,64 @@
-# React + Vite
+# 🛡️ LE VILLAGE NUMÉRIQUE RÉSISTANT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Équipe : LES RETRAITÉS**  
+*Nuit de l'Info 2025*
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚠️ MISSION BRIEFING
 
-## React Compiler
+L'empire des "Big Tech" menace l'autonomie de nos écoles. Obsolescence programmée, surveillance des données, coûts exorbitants... Il est temps de résister.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Notre mission : **Aider les établissements scolaires à reprendre le contrôle grâce au protocole N.I.R.D.** (Numérique Inclusif, Responsable et Durable).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ ARMURERIE NUMÉRIQUE (Fonctionnalités)
+
+Nous avons développé une suite d'outils pour équiper la résistance :
+
+### 1. 📊 Simulateur TCO & Carbone
+Calculez le **Coût Total de Possession** (TCO) de votre parc informatique.
+- Comparez le coût "Business as Usual" (Windows + Renouvellement fréquent) vs "Modèle N.I.R.D." (Linux + Durabilité).
+- Visualisez les économies financières et l'impact CO2 évité.
+
+### 2. 🔄 Guide de Migration 2.0
+Ne restez pas prisonnier des logiciels propriétaires.
+- Trouvez des alternatives libres et éthiques (OS, Bureautique, Visio...).
+- Consultez les **Scores de Vie Privée** et de **Liberté** pour chaque outil.
+
+### 3. 📝 Audit Stratégique
+Votre école est-elle une "Colonie Numérique" ou un "Village Irréductible" ?
+- Répondez à 10 questions clés sur votre infrastructure, votre gouvernance et votre pédagogie.
+- Obtenez un diagnostic précis et des conseils pour progresser.
+
+---
+
+## 🎮 ZONE DE DÉTENTE (Quêtes & Easter Eggs)
+
+La résistance, c'est aussi savoir s'amuser (et prouver qu'on n'est pas des robots).
+
+- **Rube Goldberg** : Une vérification humaine... complexe.
+- **Bad Phone** : L'enfer de l'UX design.
+- **Pixel Game** : Un roguelike procédural pour infiltrer le système.
+- **Hidden Snake** : Un classique caché derrière le légendaire Konami Code.
+- **Music Visualizer** : Une expérience audio-réactive cyberpunk.
+
+---
+
+## 🚀 INSTALLATION
+
+```bash
+# Cloner le dépôt
+git clone https://github.com/SachaHassan/N2I_Les_Retraites.git
+
+# Installer les dépendances
+npm install
+
+# Lancer la résistance
+npm run dev
+```
+
+---
+
+*Développé avec ❤️ et du code libre par LES RETRAITÉS.*
